@@ -42,9 +42,6 @@ The Hume House App is designed with user accessibility and security in mind. Her
    - Changes made here will be updated in the contact info database.
    - At the bottom of the main menu, a logout button redirects users back to the login screen.
 
-## App Pictures
-
-A full description of the app, including detailed explanations and images of the screens, will be uploaded in a folder named `App_Details`. This folder will provide a comprehensive guide to all the features and functionalities of the Hume House App.
 
 ## Credits
 
