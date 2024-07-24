@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111269069354",
+    "project_id": "test-authorization-hume-house",
+    "storage_bucket": "test-authorization-hume-house.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111269069354:android:e43945a273cc148e08b953",
+        "android_client_info": {
+          "package_name": "com.example.hume_house_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCHDMZ3W4xdrm01IfuYusqXS0k6juh8eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
