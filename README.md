@@ -10,6 +10,7 @@ The Hume House App is designed with user accessibility and security in mind. Her
 
 1. **Login Screen**:
    - The first screen that appears upon opening the app is the login screen.
+   - ![Login Screen](screenshots/login_screen.png)
    - Since anyone can download the app from the app store, not everyone will be able to create a user.
    - Authorized new users who wish to create credentials must click on "Create a User," which redirects them to a new window.
    - In this window, users must enter their authorized email. If the email is in the Firebase database connected to the app, the user will be able to create a new account.
