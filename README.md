@@ -1,6 +1,6 @@
 # Hume House App
 
-![Hume House]([https://cdn.sanity.io/images/qe2ul2l0/production/af08136bb8687e7ffe3e63fa4968f629ece0d93c-2000x1332.jpg?rect=554,349,1302,867&w=1920&h=1279&q=70&fit=max&auto=format](https://cdn.sanity.io/images/qe2ul2l0/production/699d5cf41699376f80c3b6abf24f3351c5518bb1-2000x1333.jpg?w=1376&q=70&fit=max&auto=format&dpr=2))
+![Hume House](https://cdn.sanity.io/images/qe2ul2l0/production/699d5cf41699376f80c3b6abf24f3351c5518bb1-2000x1333.jpg?w=1376&q=70&fit=max&auto=format&dpr=2)
 
 Welcome to the Hume House App! This application is designed to streamline the operational functions of the Rollins Hume House Child Development and Student Research Center. Our goal is to make attendance management more efficient and ensure timely notifications to parents about their children's status and activities.
 
